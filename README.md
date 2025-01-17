@@ -66,17 +66,8 @@ l
 
 <br>
 
-## 🎀 STEP 01 -  Fork The Repo
 
-<a href="https://github.com/VajiraTechOfficial/VAJIRA-MD/fork"><img src="https://img.shields.io/badge/Fork%20Repo-blue" alt="FORK VAJIRA MD REPO" width="150"></a>
-</br>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-<br>
-
-
-<br>
-<br>
-## 🎀 STEP 03 -  Deployment Methods
+## 🎀 STEPS -  Deployment Methods
 
 <a href="https://tdd-gangs.github.io/Deployments/"><img src="https://img.shields.io/badge/DEPLOYMENT%20METHODS-green" alt="DEPLOY PLATFORMS" width="300"></a>
 <br>
