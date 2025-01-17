@@ -73,11 +73,6 @@ l
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <br>
 
-## 🎀 STEP 02 -  Get Session
-
-<a href="https://stuck-godiva-vajiratech2003-a4248d0c.koyeb.app/"><img src="https://img.shields.io/badge/QR%20OR%20PAIR%20CODE-blue" alt="GET SESSION" width="200"></a>
-
-`Not come session id use a vpn and try again`
 
 <br>
 <br>
