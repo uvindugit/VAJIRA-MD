@@ -97,7 +97,6 @@
     "cloudscraper" : "4.6.0",
     "tempmail.js": "latest",
     "qs": "latest",
-    "adm-zip": "^0.5.16",
     "ytsearch-venom":"^1.0.0"
   }
 }
