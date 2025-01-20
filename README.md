@@ -53,9 +53,11 @@ l
   </a>
 </p>
 
-## 💡 FOLLOW OUR CHANAL
+## 💡 FOLLOW OUR CHANNELS
 
 <a href="https://whatsapp.com/channel/0029VahMZasD8SE5GRwzqn3Z"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-blue" alt="📎 Join Our WhatsApp Channel" width="350"></a>
+
+<a href="https://www.youtube.com/@VajiraTech"><img src="https://img.shields.io/badge/Subscribe%20My%20Youtube%20Channel-blue" alt="📎 Subscribe My Youtube Channel" width="350"></a>
 
 <br>
 
@@ -63,6 +65,11 @@ l
  
   <h1>👇 DEPLOY NOW 👇</h1>
 </div>
+
+
+##Heroku Deploy 
+
+https://youtu.be/B4Nvpe48vA8?si=e1g5j-vp5wAHjKXu
 
 <br>
 
