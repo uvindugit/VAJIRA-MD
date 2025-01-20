@@ -66,6 +66,12 @@ l
   <h1>👇 DEPLOY NOW 👇</h1>
 </div>
 
+
+##Heroku Deploy 
+
+```https://youtu.be/B4Nvpe48vA8?si=e1g5j-vp5wAHjKXu```
+
+
 <br>
 
 
